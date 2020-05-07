@@ -1,0 +1,301 @@
+id,age,name,salary,city,favorite_color,jog,hike,paddleboard,camp
+700,50,Federico,58824,Tierrasanta,red,1,0,1,0
+701,23,Suzannah,58089,Del Mar,orange,0,1,1,1
+702,29,Lily,83160,Del Mar,green,0,1,0,1
+703,22,Ruby-Rose,86000,Oceanside,yellow,0,1,1,0
+704,63,Kyan,67805,La Jolla,chartreuse,0,0,0,0
+705,80,Simran,65887,La Jolla,red,0,0,0,1
+706,16,Mina,61010,Clairemont,red,1,0,1,1
+707,56,Devante,65377,Encinitas,pink,0,1,0,1
+708,26,Brittany,63277,Tierrasanta,blue,1,1,1,1
+709,48,Keanu,86762,North Park,chartreuse,0,0,0,0
+710,22,Aston,63664,La Jolla,chartreuse,1,1,1,1
+711,43,Aarush,63932,Clairemont,chartreuse,1,1,1,0
+712,68,Madison,74891,Mira Mesa,red,0,1,0,1
+713,51,Ben,76149,Ocean Beach,green,0,0,0,1
+714,26,Tania,117928,Encinitas,pink,0,1,1,0
+715,69,Albi,56633,Encinitas,yellow,1,1,0,1
+716,69,Izaac,46277,Pacific Beach,pink,0,1,1,1
+717,20,Jae,119002,La Jolla,blue,0,0,0,1
+718,43,Edwin,51883,North Park,yellow,0,1,0,0
+719,62,Filip,67094,Encinitas,red,0,1,0,0
+720,27,Sion,91025,Encinitas,chartreuse,1,0,0,0
+721,64,Zahid,65901,North Park,black,0,1,0,0
+722,26,Shelbie,7405,Del Mar,yellow,0,0,0,0
+723,57,Willard,93584,Pacific Beach,black,1,1,0,1
+724,30,Thiago,3009,Clairemont,red,0,0,1,1
+725,28,Catrin,106148,Tierrasanta,purple,0,1,0,1
+726,52,Asa,51899,Oceanside,orange,0,0,0,1
+727,65,Leo,60487,Clairemont,yellow,1,0,0,0
+728,64,Diesel,56596,La Jolla,blue,0,1,1,1
+729,60,Gabrielle,72299,Tierrasanta,green,0,0,0,1
+730,30,Jasmine,135284,Pacific Beach,pink,1,1,1,0
+731,36,Zakary,49009,Mira Mesa,orange,0,1,1,0
+732,27,Saanvi,26479,Ocean Beach,black,1,1,1,1
+733,33,Emily-Rose,85581,Tierrasanta,yellow,0,1,0,0
+734,56,Saad,71704,North Park,pink,0,0,1,0
+735,44,Kaiden,86334,Santee,red,0,0,0,0
+736,19,Mea,49753,Pacific Beach,yellow,0,1,1,1
+737,23,Leah,84092,Tierrasanta,green,0,0,0,1
+738,39,Cecil,68600,La Jolla,brown,0,1,0,1
+739,58,Luca,61175,La Jolla,yellow,0,1,0,0
+740,11,Kaya,83663,Tierrasanta,pink,1,1,0,0
+741,40,Shayna,169115,Oceanside,yellow,1,1,1,0
+742,21,Elicia,61291,Ocean Beach,yellow,0,0,0,0
+743,12,Kier,9413,North Park,purple,1,1,1,1
+744,17,Ilayda,0,Ocean Beach,brown,1,1,1,0
+745,50,Mathias,71729,Santee,brown,0,1,0,1
+746,58,Troy,0,Tierrasanta,black,0,0,0,0
+747,60,Arslan,94004,Mira Mesa,blue,0,1,0,1
+748,42,Ksawery,74658,Oceanside,blue,0,1,0,1
+749,58,Manuel,57064,Encinitas,red,1,0,0,1
+750,36,Alisa,169645,Mira Mesa,black,0,1,0,1
+751,54,Simran,80261,North Park,yellow,0,0,0,1
+752,68,Wyatt,73598,Ocean Beach,yellow,1,1,0,0
+753,39,Billie,129428,Clairemont,green,0,0,0,0
+754,28,Bryn,0,Pacific Beach,pink,0,0,1,0
+755,28,Wiktoria,102003,Tierrasanta,green,0,1,1,0
+756,22,Sophia,66324,La Jolla,green,1,0,0,1
+757,59,Bradley,46910,Oceanside,orange,1,1,1,1
+758,27,Carol,90590,La Jolla,yellow,1,1,0,0
+759,45,Flynn,56876,Clairemont,yellow,0,1,0,1
+760,39,Dexter,66372,North Park,pink,1,0,0,0
+761,27,Shayna,38477,Ocean Beach,yellow,0,1,0,1
+762,26,Amarah,38635,Ocean Beach,yellow,0,0,0,1
+763,22,Lily-Mae,106530,Pacific Beach,black,0,1,1,0
+764,66,Kavan,65625,La Jolla,pink,0,0,0,0
+765,18,Cecelia,76855,North Park,yellow,0,0,1,0
+766,62,Devante,80554,Encinitas,purple,0,1,1,0
+767,47,Charles,43111,La Jolla,brown,0,1,0,0
+768,22,Sanaa,65879,Mira Mesa,pink,1,0,1,0
+769,60,Suzannah,72156,Del Mar,red,0,1,0,1
+770,19,Bianca,24614,Tierrasanta,blue,0,0,0,0
+771,57,Malik,51148,Mira Mesa,brown,1,1,0,1
+772,21,Phoenix,102191,Oceanside,yellow,0,1,1,0
+773,63,Jaya,86234,Santee,brown,0,1,0,0
+774,53,Dominick,32759,Pacific Beach,purple,1,0,1,1
+775,43,Jordi,69414,North Park,yellow,0,0,0,1
+776,17,Melina,162454,Encinitas,pink,0,1,1,1
+777,67,Beulah,54309,La Jolla,pink,1,0,1,0
+778,19,Aiesha,0,Pacific Beach,black,1,0,1,1
+779,66,Tomos,23141,Oceanside,brown,0,1,1,1
+780,42,Alex,67102,Tierrasanta,red,0,1,0,0
+781,46,Abbas,77799,Oceanside,black,0,0,0,0
+782,57,Tashan,75467,Mira Mesa,purple,0,0,0,1
+783,30,Katelin,55448,Tierrasanta,yellow,0,1,1,0
+784,23,Sophia,115399,Santee,green,0,0,1,0
+785,23,Piper,5766,Del Mar,yellow,1,1,0,1
+786,29,Colleen,18902,Oceanside,pink,0,1,0,0
+787,31,Rhiana,31311,Oceanside,orange,1,1,1,1
+788,24,Keanu,103604,Pacific Beach,red,0,1,1,0
+789,35,Kiki,99438,Oceanside,brown,0,1,0,0
+790,51,Zi,79920,Oceanside,chartreuse,1,0,1,1
+791,63,Lewie,77890,Santee,blue,0,1,0,0
+792,25,Amiyah,88362,Ocean Beach,blue,0,1,1,1
+793,53,Ashlee,53416,Tierrasanta,purple,0,1,1,0
+794,25,Sommer,40844,Pacific Beach,yellow,0,1,1,0
+795,25,Wilma,136681,North Park,chartreuse,0,1,0,1
+796,46,Nikolas,73718,Santee,red,0,1,0,0
+797,46,Kyran,32080,Encinitas,yellow,1,1,0,1
+798,25,Che,36812,North Park,yellow,0,0,0,1
+799,60,Asa,49543,Oceanside,pink,1,1,0,0
+800,25,Henna,98812,Encinitas,black,0,1,0,0
+801,24,Bryce,88674,Pacific Beach,orange,0,1,0,0
+802,53,Conrad,79335,Encinitas,yellow,1,1,0,1
+803,18,Kyla,104117,Encinitas,orange,0,0,0,1
+804,53,Nadia,70987,Santee,yellow,0,0,0,1
+805,61,Leigh,65215,Encinitas,red,0,0,1,1
+806,42,Zain,54647,Mira Mesa,purple,0,1,1,0
+807,70,Nico,83732,Pacific Beach,red,0,1,1,0
+808,30,Lilly-Grace,119683,Del Mar,blue,0,1,0,1
+809,57,Affan,93384,Del Mar,red,0,0,1,0
+810,26,Sumaiyah,27138,Oceanside,red,1,1,0,0
+811,48,Anwar,44569,Ocean Beach,yellow,0,1,1,1
+812,12,Jess,105770,Clairemont,red,1,1,1,0
+813,67,Devante,69033,Pacific Beach,pink,0,0,0,0
+814,65,Elwood,77454,La Jolla,yellow,0,0,1,1
+815,25,Hannah,56903,Encinitas,purple,0,1,1,0
+816,64,Izaac,75833,Santee,blue,1,1,0,0
+817,47,Ceri,38194,Pacific Beach,yellow,0,0,1,1
+818,37,Franky,87164,Tierrasanta,orange,0,1,0,0
+819,61,Mathias,84974,Pacific Beach,black,0,0,0,1
+820,71,Olivier,46638,Oceanside,pink,1,1,1,1
+821,19,Shanay,56802,La Jolla,red,1,0,0,1
+822,71,Michele,70398,Encinitas,yellow,1,0,0,1
+823,30,Alia,79220,Del Mar,purple,0,1,0,0
+824,77,Cody,46418,Santee,blue,1,1,0,0
+825,46,Annalise,86942,Del Mar,yellow,0,0,0,0
+826,28,Cameron,34473,Ocean Beach,red,0,0,0,1
+827,21,Winifred,28740,Pacific Beach,pink,1,1,1,0
+828,48,Miguel,71976,Oceanside,blue,0,0,1,0
+829,18,Ziggy,102260,Pacific Beach,orange,1,1,1,1
+830,59,Harrison,21001,Pacific Beach,purple,1,1,1,1
+831,63,Said,59032,Oceanside,red,1,1,0,1
+832,52,Kourtney,66208,Del Mar,chartreuse,0,0,0,1
+833,59,Lamar,71292,Del Mar,orange,1,1,0,1
+834,71,Philip,33627,Encinitas,blue,0,1,1,1
+835,20,Mina,59132,La Jolla,pink,1,1,1,0
+836,40,Lillia,152026,North Park,blue,0,1,0,0
+837,26,Hannah,37608,Encinitas,yellow,0,1,0,1
+838,38,Jonny,60182,North Park,chartreuse,0,0,0,1
+839,48,Tabitha,77908,Del Mar,brown,0,1,1,0
+840,51,Efe,76795,Clairemont,black,0,1,0,1
+841,72,Rodney,82407,Tierrasanta,blue,0,0,0,0
+842,50,Fatima,73612,Clairemont,pink,0,0,0,0
+843,29,Dora,71098,Ocean Beach,red,0,0,1,1
+844,26,Thierry,44846,Ocean Beach,brown,0,0,1,1
+845,57,Harmony,71599,Mira Mesa,yellow,1,0,0,1
+846,72,Kaison,78801,Santee,black,0,0,0,0
+847,38,Emelia,75195,Ocean Beach,red,1,0,1,0
+848,33,Ammar,59299,Clairemont,green,1,1,1,0
+849,38,Anastazja,95290,Tierrasanta,orange,0,0,0,0
+850,19,Maci,162156,Pacific Beach,red,0,1,1,1
+851,52,Ewen,63372,Mira Mesa,pink,1,1,0,0
+852,47,Reagan,65696,La Jolla,red,0,1,0,1
+853,20,Tyrell,60964,Ocean Beach,red,0,0,1,1
+854,22,Natalie,149036,Pacific Beach,chartreuse,1,1,0,0
+855,57,Jonny,69185,Santee,black,0,0,0,1
+856,78,Mujtaba,40504,Encinitas,pink,1,1,0,0
+857,20,Demi-Leigh,86105,Ocean Beach,chartreuse,0,1,0,0
+858,54,Bayley,46094,Mira Mesa,blue,0,1,0,1
+859,53,Rodrigo,68394,Tierrasanta,blue,0,1,0,1
+860,54,Garfield,46203,Oceanside,pink,1,0,1,0
+861,62,Jaydan,92109,Encinitas,pink,0,0,1,0
+862,68,Mattie,39903,Clairemont,red,0,0,0,0
+863,55,Musa,4265,Encinitas,yellow,1,1,0,1
+864,32,Luci,73619,Tierrasanta,yellow,0,0,0,1
+865,54,Fox,61227,Mira Mesa,pink,0,0,1,1
+866,27,Jesse,99854,Clairemont,green,0,1,0,0
+867,48,Cieran,35812,Encinitas,black,1,0,1,1
+868,27,Zainab,162086,Del Mar,pink,0,0,0,1
+869,73,Gerard,73130,Pacific Beach,purple,0,0,0,0
+870,34,Efe,47840,Oceanside,purple,0,0,1,0
+871,15,Bethanie,80751,Encinitas,green,1,0,1,0
+872,55,Kohen,2312,Pacific Beach,blue,0,1,0,0
+873,52,Annaliese,74466,Del Mar,pink,0,0,0,0
+874,54,Colette,90940,Clairemont,yellow,0,1,1,0
+875,21,Blanche,63588,Oceanside,yellow,0,0,0,0
+876,69,Marek,52278,Pacific Beach,brown,1,1,1,1
+877,51,Claude,60860,Clairemont,black,0,1,1,0
+878,26,Cooper,63196,Encinitas,blue,0,1,0,1
+879,65,Tymon,37527,Tierrasanta,red,0,1,0,1
+880,19,Krista,10472,North Park,purple,0,1,0,1
+881,50,Mikaela,79222,Mira Mesa,yellow,0,1,1,1
+882,73,Ariyan,99068,La Jolla,black,1,0,0,0
+883,35,Catrin,53152,Encinitas,red,0,0,1,0
+884,38,Jared,111743,Pacific Beach,red,0,1,0,1
+885,62,Francisco,67538,Pacific Beach,purple,0,1,1,0
+886,41,Eren,77076,Del Mar,red,0,1,1,0
+887,27,Ophelia,88451,Ocean Beach,pink,0,1,0,1
+888,23,Mylah,64696,Oceanside,green,0,1,0,0
+889,35,Denny,71195,Pacific Beach,blue,0,0,1,0
+890,15,Jasmine,105183,Encinitas,blue,0,0,0,0
+891,81,Giorgio,53907,Oceanside,pink,0,0,1,1
+892,11,Stefania,30138,Oceanside,red,1,0,1,0
+893,28,Tiah,79690,Tierrasanta,brown,0,0,0,1
+894,62,Kendall,65229,Santee,chartreuse,0,1,0,0
+895,39,Louise,78255,Mira Mesa,blue,0,0,1,0
+896,66,Asa,76558,Mira Mesa,green,0,0,0,1
+897,27,Maisha,38971,La Jolla,red,0,1,1,1
+898,18,Nala,87496,Tierrasanta,orange,0,1,0,1
+899,25,Grace,59600,Ocean Beach,pink,0,1,0,1
+900,63,Aleksander,73672,North Park,pink,0,1,0,0
+901,58,Daniyal,56994,Oceanside,pink,0,1,1,0
+902,52,Connah,36160,Clairemont,yellow,0,0,0,0
+903,13,Abbi,48709,Mira Mesa,pink,0,1,1,0
+904,25,Ollie,77078,Mira Mesa,pink,0,1,0,1
+905,18,Cecelia,159022,Oceanside,pink,1,1,1,0
+906,53,Arjun,38943,Ocean Beach,yellow,1,1,0,0
+907,77,Fahmida,71361,Ocean Beach,green,0,0,0,0
+908,16,Hailie,97404,Oceanside,brown,0,1,1,0
+909,28,Lillie-Rose,65066,Encinitas,chartreuse,0,0,1,1
+910,73,Rui,66057,North Park,black,0,1,1,0
+911,30,Lubna,55022,Oceanside,pink,0,1,0,1
+912,64,Randy,78371,Ocean Beach,black,0,1,0,0
+913,73,Kaison,951,Encinitas,black,1,0,1,0
+914,21,Klara,100950,Oceanside,red,0,1,0,1
+915,26,Kimora,109946,La Jolla,orange,1,1,1,1
+916,28,Fallon,75736,North Park,purple,0,0,0,1
+917,51,Fenton,70324,Clairemont,pink,0,1,0,0
+918,22,Esha,127837,Oceanside,yellow,0,1,1,0
+919,63,Aron,59144,Oceanside,black,0,1,0,1
+920,28,Ira,96066,Mira Mesa,brown,1,1,1,1
+921,57,Warwick,62046,Ocean Beach,brown,1,1,1,0
+922,43,Hareem,68225,Tierrasanta,pink,0,0,0,1
+923,52,Cristian,70958,Tierrasanta,red,0,1,0,1
+924,23,Jaden,81438,La Jolla,purple,0,1,0,0
+925,23,Anis,46176,Encinitas,pink,0,1,1,0
+926,35,Remi,87093,Mira Mesa,chartreuse,0,0,0,1
+927,54,Waqar,92460,Clairemont,chartreuse,0,0,0,1
+928,55,Asa,36122,Pacific Beach,orange,0,1,1,0
+929,16,Martina,52028,Tierrasanta,blue,0,0,1,1
+930,17,Noa,87571,North Park,blue,0,1,0,0
+931,25,Stefania,46865,Tierrasanta,pink,0,1,1,0
+932,55,Lamar,76960,Santee,blue,0,1,0,0
+933,52,Carolyn,60301,Clairemont,purple,1,1,0,0
+934,37,Kasim,61296,La Jolla,chartreuse,0,1,0,0
+935,82,Saim,53130,Clairemont,green,0,1,1,0
+936,57,Rami,73180,Oceanside,yellow,1,0,1,0
+937,24,Hira,115696,Tierrasanta,red,0,1,0,0
+938,62,Cieran,40082,Oceanside,yellow,1,0,1,1
+939,26,Lois,95471,Del Mar,yellow,0,1,1,0
+940,44,Nicola,48718,Mira Mesa,brown,0,1,0,1
+941,62,Jordon,28494,Ocean Beach,green,0,1,1,1
+942,22,Parker,86107,Pacific Beach,orange,0,0,0,1
+943,22,Kacy,141309,La Jolla,brown,0,1,1,0
+944,62,Yunus,72064,Mira Mesa,green,1,0,0,0
+945,67,Maja,91273,Clairemont,green,0,0,0,1
+946,18,Emerson,133552,La Jolla,pink,1,1,1,1
+947,26,Cathy,108645,Oceanside,yellow,0,0,1,0
+948,28,Sheridan,89055,Tierrasanta,yellow,1,1,1,1
+949,26,Adela,90885,Encinitas,green,0,0,1,1
+950,57,Abdallah,49716,Clairemont,purple,1,1,1,1
+951,42,Kobie,82713,North Park,black,0,0,1,1
+952,45,Manav,41127,Del Mar,yellow,1,1,0,1
+953,32,Shanai,104431,Oceanside,blue,0,1,0,1
+954,65,Marni,73565,Encinitas,orange,0,1,1,0
+955,57,Kourtney,67818,North Park,pink,0,0,0,1
+956,40,Asher,24062,Del Mar,orange,1,0,0,1
+957,55,Alasdair,78953,Oceanside,purple,0,1,0,0
+958,21,Zuzanna,70296,Oceanside,yellow,1,1,1,0
+959,2,Zoey,77581,Pacific Beach,brown,0,1,0,1
+960,27,Veronica,119252,Pacific Beach,pink,1,0,0,0
+961,60,Alaya,92051,Oceanside,yellow,0,1,0,1
+962,15,Maheen,95698,Del Mar,red,0,1,1,0
+963,56,Conah,83283,Clairemont,blue,0,0,0,1
+964,26,Jadine,52528,La Jolla,brown,0,1,1,0
+965,20,Kendall,118920,Ocean Beach,pink,0,1,1,1
+966,54,Lawrence,52123,Pacific Beach,brown,0,0,0,1
+967,35,Essa,72903,Mira Mesa,brown,1,1,0,1
+968,22,Taybah,93446,Ocean Beach,chartreuse,0,0,0,1
+969,19,Keisha,80109,Ocean Beach,purple,0,1,0,0
+970,26,Amelia-Rose,63080,Encinitas,brown,1,1,1,1
+971,48,Bjorn,72871,North Park,purple,0,1,0,0
+972,49,Alex,89609,Mira Mesa,chartreuse,1,0,0,1
+973,57,Jamil,43509,Tierrasanta,chartreuse,0,0,1,0
+974,48,Keon,82655,Encinitas,green,1,1,0,0
+975,18,Neo,101565,La Jolla,brown,1,0,0,1
+976,19,Micah,29534,Tierrasanta,brown,0,1,1,0
+977,54,Rami,66706,Tierrasanta,blue,0,0,0,0
+978,43,Dominique,52223,Pacific Beach,brown,0,1,1,1
+979,12,Katelin,75505,Santee,red,0,1,0,0
+980,59,Kallum,75046,Pacific Beach,pink,0,0,1,0
+981,19,Kaisha,77426,Del Mar,orange,0,1,0,0
+982,26,Cameron,57078,Oceanside,brown,1,1,0,0
+983,20,Taya,58868,Clairemont,yellow,1,0,1,1
+984,60,Kwame,21177,La Jolla,brown,1,1,1,0
+985,46,Oisin,63989,Tierrasanta,brown,0,0,1,0
+986,29,Katherine,0,Santee,green,0,0,0,0
+987,76,Harris,72644,Ocean Beach,blue,0,1,0,0
+988,53,Cristian,74821,Ocean Beach,brown,1,0,1,0
+989,32,Stefania,104931,Encinitas,green,0,1,0,1
+990,23,Malik,87640,Tierrasanta,pink,0,1,0,1
+991,73,Haaris,39867,Ocean Beach,black,0,1,1,1
+992,55,Dexter,80116,Oceanside,chartreuse,0,1,1,1
+993,20,Danni,63131,Tierrasanta,blue,1,1,0,1
+994,23,Shayla,128944,Del Mar,red,1,1,0,1
+995,25,Musa,107735,Pacific Beach,pink,1,0,1,0
+996,31,Hanna,54928,Encinitas,purple,1,1,1,1
+997,58,Phillipa,71801,La Jolla,blue,0,0,0,0
+998,19,Carol,150232,Encinitas,green,0,1,1,0
+999,40,Ciara,77092,Santee,orange,0,1,0,0
